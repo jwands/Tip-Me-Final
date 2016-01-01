@@ -27,9 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-file:///Users/jwands/Desktop/Tip%20Me.gif
-
-/var/folders/yp/yflll8v514d372lrw__28tsm0000gn/T/com.apple.Preview/com.apple.Preview.PasteboardItems/Tip Me-1 (dragged).tiff
+http://i.imgur.com/HB9JRlp.gif?1
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
