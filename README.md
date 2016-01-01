@@ -3,7 +3,7 @@
 
 **Tip Me!** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Jasmine**
 
 Time spent: **40** hours spent in total
 
